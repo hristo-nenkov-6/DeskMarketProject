@@ -1,7 +1,7 @@
 # Short introduction
 DeskMarket is a website for selling computer parts and accessories. It was my final project for the ASP.NET Fundamentals course at Software University.
 
-![](Photos/gifmaker_me.gif)
+![](Photos/DeskMarketIntro.gif)
 
 # Front-End
 The Fronyt-End contains HTML, CSS + Bootstrap, JavaScript, and Razor Pages.
