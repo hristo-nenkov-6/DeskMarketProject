@@ -1,5 +1,6 @@
 # Short introduction
 DeskMarket is a website for selling computer parts and accessories. It was my final project for the ASP.NET Fundamentals course at Software University.
+
 ![](Photos/gifmaker_me.gif)
 
 # Front-End
@@ -14,7 +15,7 @@ I used the Code-First approach with the help of Entity Framework to build my Dat
 As this is a C# project, I used TSQL, SSMS, and SQL Server.
 There is Back-End verification for every field on the website.
 The connection between the server and the Front-End is made with the help of ASP.NET Framework, using the ApplicationDbContext class and the UserManager class.
-![](Photos/Database Connection.png)
+![](Photos/DatabaseConnection.png)
 
 # Additional
 The website uses the async-await pattern so it is thread-safe and competitive.
